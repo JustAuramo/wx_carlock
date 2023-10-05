@@ -16,6 +16,7 @@ As the name says, it's a carlock script that uses one simple ESX callback to the
 - Added option for headlights flash on unlock/lock
 - Added option to change the target icon straight from the config
 - When locking/unlocking vehicle via target, the script will ignore all other vehicle nearby and try to lock/unlock only the one you selected from the target (badly explained i know)
+- Event use option added. You can use, for example, in the radial menu if you wish! You can find this. client/client.lua(line: 180-183)
 
 :eyes: **Check out my other resources!**
 
